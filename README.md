@@ -47,3 +47,12 @@ I’m looking to collaborate on **open-source projects** and coding challenges.
 
 ### 📊 GitHub Stats
 ![Uwineza Florence's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwinezaflorence20&show_icons=true&theme=radical)
+<!-- GitHub Stats -->
+![Uwineza Florence's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwinezaflorence20&show_icons=true&theme=radical)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uwinezaflorence20&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwinezaflorence20&theme=radical&layout=compact)
+
